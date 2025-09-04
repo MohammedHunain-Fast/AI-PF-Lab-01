@@ -2,11 +2,11 @@
 ##HEADING 2
 ###HEADING 3
 **This is bold text**
-<br/>
+<br\>
 Unordered list
-<br/>
+<br\>
 -list1
 -list2
 -list3
 -list4
--<br/>
+-<br\>
